@@ -1,0 +1,5 @@
+{
+    "name": "android-review-plugin",
+    "description": "Adds a /android-review skill for reviewing Android app codebases.",
+    "version": "1.0.0"
+}

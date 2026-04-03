@@ -1,0 +1,18 @@
+{
+    "name": "manifest",
+    "owner": {
+        "name": "HarrisonOg",
+        "email": "oglesby.harrison@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "android-review-plugin",
+            "source": "./plugins/android-review-plugin",
+            "description": "Adds a /android-review skill for Android app code reviews.",
+            "version": "1.0.0",
+            "author": {
+                "name": "HarrisonOg"
+            }
+        }
+    ]
+}
