@@ -2,6 +2,16 @@
 
 A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills marketplace for Android app development. Install production-grade skills that extend Claude Code with deep Android and Kotlin expertise.
 
+## Install instructions
+
+```bash
+# Install marketplace
+/plugin marketplace add HarrisonOg/manifest
+
+# Install android-review skill
+/plugin install android-review@manifest
+```
+
 ## Available plugins
 
 | Plugin | Version | Description |
