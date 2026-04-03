@@ -9,7 +9,7 @@ A [Claude Code](https://docs.anthropic.com/en/docs/claude-code) skills marketpla
 /plugin marketplace add HarrisonOg/manifest
 
 # Install android-review skill
-/plugin install android-review@manifest
+/plugin install android-review-plugin@manifest
 ```
 
 ## Available plugins
